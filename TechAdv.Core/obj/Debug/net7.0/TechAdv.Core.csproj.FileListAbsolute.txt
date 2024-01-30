@@ -1,0 +1,12 @@
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/TechAdv.Core.csproj.AssemblyReference.cache
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/TechAdv.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/TechAdv.Core.AssemblyInfoInputs.cache
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/TechAdv.Core.AssemblyInfo.cs
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/TechAdv.Core.csproj.CoreCompileInputs.cache
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/bin/Debug/net7.0/TechAdv.Core.deps.json
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/bin/Debug/net7.0/TechAdv.Core.dll
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/bin/Debug/net7.0/TechAdv.Core.pdb
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/TechAdv.Core.dll
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/refint/TechAdv.Core.dll
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/TechAdv.Core.pdb
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Core/obj/Debug/net7.0/ref/TechAdv.Core.dll

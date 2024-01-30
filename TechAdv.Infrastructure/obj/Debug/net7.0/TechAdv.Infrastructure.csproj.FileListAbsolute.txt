@@ -1,0 +1,17 @@
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/bin/Debug/net7.0/TechAdv.Infrastructure.deps.json
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/bin/Debug/net7.0/TechAdv.Infrastructure.dll
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/bin/Debug/net7.0/TechAdv.Infrastructure.pdb
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/bin/Debug/net7.0/TechAdv.Core.dll
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/bin/Debug/net7.0/TechAdv.Core.pdb
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.csproj.AssemblyReference.cache
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.AssemblyInfoInputs.cache
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.AssemblyInfo.cs
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.csproj.CoreCompileInputs.cache
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.csproj.CopyComplete
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.dll
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/refint/TechAdv.Infrastructure.dll
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.pdb
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/ref/TechAdv.Infrastructure.dll
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/bin/Debug/net7.0/TechAdv.Infrastructure.runtimeconfig.json
+/home/daniel-oliveira-da-silva/Área de trabalho/TechAdv/TechAdv.Infrastructure/obj/Debug/net7.0/TechAdv.Infrastructure.genruntimeconfig.cache
